@@ -1,3 +1,3 @@
 # deep_learning_basics
 
-Deep Learning の勉強に用いたノートブックが保存されている。
+Deep Learning の勉強会の資料
